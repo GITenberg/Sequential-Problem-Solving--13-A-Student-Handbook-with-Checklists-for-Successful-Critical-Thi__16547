@@ -1,0 +1,29 @@
+_repo: Sequential-Problem-Solving--13-A-Student-Handbook-with-Checklists-for-Successful-Critical-Thi__16547
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Lozo, Fredric B.
+    birthdate: 1941
+    gutenberg_agent_id: '6785'
+    url: http://www.gutenberg.org/2009/agents/6785
+description: ''
+gutenberg_issued: '2005-08-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16547'
+language: en
+publisher: Project Gutenberg
+rights: Copyrighted. Read the copyright notice inside this book for details.
+rights_url: ''
+subjects:
+- !lcsh 'Study skills'
+- !lcsh 'Decision making'
+- !lcsh 'Critical thinking'
+- !lcsh 'Problem solving'
+- !lcc 'BF'
+title: "Sequential Problem Solving\r\nA Student Handbook with Checklists for Successful\
+  \ Critical Thinking"
+url: http://www.gutenberg.org/ebooks/16547
